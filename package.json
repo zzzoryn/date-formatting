@@ -1,0 +1,20 @@
+{
+  "name": "date-formatting",
+  "version": "1.0.0",
+  "description": "Date formatting from string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "date",
+    "format",
+    "time",
+    "formatting"
+  ],
+  "author": "zzzoryn",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
