@@ -1,6 +1,6 @@
 {
   "name": "date-formatting",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Date formatting from string",
   "main": "index.js",
   "scripts": {

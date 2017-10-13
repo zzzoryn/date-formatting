@@ -14,9 +14,9 @@ Usage
 ```js
 const formatting = require('date-formatting');
 
-formatting(new Date);
-formatting(new Date, 'MMM dd, yyyy hh:mma Z');
-formatting(new Date, 'MMM dd, yyyy hh:mma Z', options);
+formatting(new Date());
+formatting(new Date(), 'MMM dd, yyyy hh:mma Z');
+formatting(new Date(), 'MMM dd, yyyy hh:mma Z', options);
 ```
 
 Default format
